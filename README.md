@@ -8,7 +8,7 @@ Este Rails engine se encarga de Tokenizar la información de la tarjeta bancaria
 ## Cómo usar ConektaPayment?
 Actualemente ConektaPayment no ha sido liberado en Rubygems, así que si deseas utilizarlo en tu proyecto tienes que agregar la referencia en tu _Gemfile_ de la siguiente forma:
 
-    gem 'conekta_payment', github: 'mariochavez/conekta_payment'
+    gem 'conekta_payment', github: 'carlosgomez2/conekta_payment'
 
 Antes de iniciar tu servidor de Rails hay que poner en las siguientes variables de ambiente las llaves pública y privada que obtienes al resgistrarte en Conekta.io
 
